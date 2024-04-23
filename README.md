@@ -1,4 +1,4 @@
-# Stock Data Visualization Tool
+# What's With the Stock?
 
 <div align="center">
 
