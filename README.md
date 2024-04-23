@@ -17,3 +17,6 @@ This tool provides an easy way to visualize stock data using Matplotlib, specifi
 Below is a sample output looking at NVDA stock from the date ranges of 2023-01-01 to 2024-01-01.
 
 ![image](Figure_1.png)
+
+## Project Status
+🚧 This project is currently under active development. 🚧
