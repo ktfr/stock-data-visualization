@@ -1,4 +1,4 @@
-# What's With the Stock?
+# Taking Stock
 
 <div align="center">
 
